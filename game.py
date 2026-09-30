@@ -2,7 +2,7 @@ import random
 
 print("Welcome to the number guessing game!")
 print("The rules of this game are simple: try to guess the number") 
-print("within 10 tries.")
+print("within 12 tries.")
 print("Let's see how good you are at guessing!")
 print(" ")
 
@@ -36,7 +36,7 @@ while True:
 
     secret_number = random.randint(1, max_range)
     
-    tries = 10 
+    tries = 12 
 
     while tries > 0:
         try: 
