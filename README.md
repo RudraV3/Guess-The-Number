@@ -31,5 +31,7 @@ During my time coding this program, I have encountered many different bugs. If I
 
 # Program Additional Info
 **Programming Language:** Python 3
+
 **License:** MIT (see LICENSE.txt for more information)
+
 **Developer:** Rudra Vaja
